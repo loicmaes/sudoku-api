@@ -1,0 +1,11 @@
+###########
+# FOLDERS #
+###########
+.idea/
+node_modules/
+
+#########
+# FILES #
+#########
+package-lock.json
+.env
